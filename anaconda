@@ -1,0 +1,13 @@
+# `리눅스 가상환경에서 아나콘다 다운로드`
+
+아나콘다 홈페이지에서 linux 로 시작하고 .sh 로 끝나는 파일 다운로드
+https://www.anaconda.com/download
+
+https://www.youtube.com/watch?v=PHkCmuzgHOo <- 영상자료
+
+다운로드 후 
+
+bash [파일명]  
+
+yes 하면 깔립니다.
+
